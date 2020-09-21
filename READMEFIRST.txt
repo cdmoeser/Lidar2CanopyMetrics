@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% DESCRIPTION
-%   These scripts calculates forest canopy structure metrics and density from high 
+%   These scripts calculate forest canopy structure metrics and density from high 
 %   resolution LiDAR point cloud data of forest canopy. 
 
 % The scripts that estimate canopy structure metrics relates to research published as

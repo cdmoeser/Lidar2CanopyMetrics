@@ -1,8 +1,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% DESCRIPTION
-%   This scripts calculates forest canopy structure metrics from high 
-%   resolution LiDAR point cloud data of forest canopy. The script
-%   relates to research published as
+%   These scripts calculates forest canopy structure metrics and density from high 
+%   resolution LiDAR point cloud data of forest canopy. 
+
+% The scripts that estimate canopy structure metrics relates to research published as
 %
 %     D. Moeser, F. Morsdorf, T. Jonas; Novel forest structure metrics 
 %     from airborne LiDAR data for improved snow interception estimation;
@@ -28,8 +29,31 @@
 %     interest.
 %
 %
-%     Please look at sepcific README file for version of interest.
+%     Please look at sepcific README file for version of interest:
+%     1. README_Lidar2CanopyMetrics.txt
+%     2. README_Lidar2CanopyMetricsAlt.txt
+%     3. README_Lidar2CanopyMetricsGrid.txt
 %
 %     These packages come with sample DTM and LiDAR data.  
 %     Note that the LIDAR folder is in .zip format due to size.  
 %     If using sample data please ensure folder is unzipped
+%%
+%%
+% The scripts that estimate canopy density metrics relates to research published as
+%
+%     D. Moeser, J. Roubinek, P. Schleppi, F. Morsdorf, T. Jonas;
+%     Canopy closure, LAI and radiation transfer from airborne LiDAR
+%     synthetic images; 2014; Agricultural and Forest Meteorology;
+%     doi: 10.1016/j.agrformet.2014.06.008
+   
+%     Please look at sepcific README file for version of interest:
+%     1. README_Lidar2CanopyMetrics.txt
+
+% NOTE there is another reposiroty available for an updated synthetic image creator @
+%     https://github.com/Tobias-Jonas-SLF/Lidar2Hemi
+
+
+
+  
+  
+  

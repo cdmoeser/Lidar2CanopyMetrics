@@ -26,6 +26,10 @@
 %     is derived from version 1.2 but gives a gridded output
 %     instead of point output and allows the user to choose metric(s) of
 %     interest.
-
-
+%
+%
 %     Please look at sepcific README file for version of interest.
+%
+%     These packages come with sample DTM and LiDAR data.  
+%     Note that the LIDAR folder is in .zip format due to size.  
+%     If using sample data please ensure folder is unzipped
